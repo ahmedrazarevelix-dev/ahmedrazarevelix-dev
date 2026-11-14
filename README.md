@@ -116,20 +116,20 @@ I specialize in the **Model Context Protocol (MCP)**, **Retrieval-Augmented Gene
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Abdullah321&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=6A5ACD&icon_color=6A5ACD&text_color=FFFFFF&ring_color=6A5ACD" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Muhammad-Abdullah321&theme=radical&hide_border=true&background=1a1b27&ring=6A5ACD&fire=6A5ACD&currStreakLabel=6A5ACD&sideLabels=FFFFFF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahmedrazarevelix-dev&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=6A5ACD&icon_color=6A5ACD&text_color=FFFFFF&ring_color=6A5ACD" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=ahmedrazarevelix-dev&theme=radical&hide_border=true&background=1a1b27&ring=6A5ACD&fire=6A5ACD&currStreakLabel=6A5ACD&sideLabels=FFFFFF" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Abdullah321&theme=react-dark&hide_border=true&bg_color=1a1b27&color=6A5ACD&line=339933&point=FFFFFF&area_color=6A5ACD&area=true&custom_title=Ahmed's%20Contribution%20Graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedrazarevelix-dev&theme=react-dark&hide_border=true&bg_color=1a1b27&color=6A5ACD&line=339933&point=FFFFFF&area_color=6A5ACD&area=true&custom_title=Ahmed's%20Contribution%20Graph" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Abdullah321&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=6A5ACD&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedrazarevelix-dev&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=6A5ACD&text_color=FFFFFF" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muhammad-Abdullah321&color=6A5ACD&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=ahmedrazarevelix-dev&color=6A5ACD&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
 -----
@@ -185,7 +185,7 @@ I specialize in the **Model Context Protocol (MCP)**, **Retrieval-Augmented Gene
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Abdullah321&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title_color=6A5ACD&text_color=FFFFFF&icon_color=6A5ACD" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ahmedrazarevelix-dev&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title_color=6A5ACD&text_color=FFFFFF&icon_color=6A5ACD" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -209,13 +209,13 @@ I specialize in the **Model Context Protocol (MCP)**, **Retrieval-Augmented Gene
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-abdullah-hammad-8392642ab">
+  <a href="https://www.linkedin.com/in/ahmed-raza-ai/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:abdullah03362@gmail.com">
+  <a href="mailto:ahmedrazarevelix@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Muhammad-Abdullah321">
+  <a href="https://github.com/ahmedrazarevelix-dev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
